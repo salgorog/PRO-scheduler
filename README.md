@@ -1,6 +1,6 @@
 # Pro-scheduler
 
-This app shows the current day and allows user to save tasks during work hours
+This app shows the current day and allows the user to save tasks during work hours
 
 ## Made with:
 * HTML
@@ -13,11 +13,7 @@ This app shows the current day and allows user to save tasks during work hours
 * Moment.js
 
 
-
-
-
-
-
+![screenshot](./assets/img/Screenshot_4.png)
 
 
 ## Live URL
